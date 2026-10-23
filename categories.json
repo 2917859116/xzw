@@ -93,9 +93,8 @@
                                        "tag":  "解码工具",
                                        "desc":  "推送工具，一键切换动态/静态",
                                        "url":  "",
-                                       "cloud_exe":  "https://cdn.jsdelivr.net/gh/2917859116/xzw@main/push_tool.zip",
                                        "cloud_file":  "push_tool.zip",
-                                       "temp":  true
+                                       "embedded":  "push"
                                    },
                                    {
                                        "name":  "禁用启用机器码",
@@ -103,9 +102,8 @@
                                        "tag":  "解码工具",
                                        "desc":  "一键禁用/启用机器码",
                                        "url":  "",
-                                       "cloud_exe":  "https://cdn.jsdelivr.net/gh/2917859116/xzw@main/switch_tool.zip",
                                        "cloud_file":  "switch_tool.zip",
-                                       "temp":  true
+                                       "embedded":  "switch"
                                    },
                                    {
                                        "name":  "手动更换机器码",
@@ -113,10 +111,9 @@
                                        "tag":  "解码工具",
                                        "desc":  "手动更换机器码",
                                        "url":  "",
-                                       "cloud_exe":  "https://cdn.jsdelivr.net/gh/2917859116/xzw@main/change_code2.zip",
                                        "cloud_file":  "change_code2.zip",
                                        "note":  "请点击\u0027静态写入随机种子自动变更机器码\u0027",
-                                       "temp":  true
+                                       "embedded":  "change"
                                    },
                                    {
                                        "name":  "查询机器码",
