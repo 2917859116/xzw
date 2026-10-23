@@ -179,24 +179,16 @@
                                        "name":  "技术员一键重装",
                                        "icon":  "🧰",
                                        "tag":  "系统重装",
-                                       "desc":  "点击自动下载并运行，密码：vip0",
-                                       "url":  "",
-                                       "cloud_file":  "jishiyuan.exe",
-                                       "pwd":  "vip0",
-                                       "parts":  [
-                                                     "https://cdn.jsdelivr.net/gh/2917859116/xzw@main/jishiyuan.part1",
-                                                     "https://cdn.jsdelivr.net/gh/2917859116/xzw@main/jishiyuan.part2",
-                                                     "https://cdn.jsdelivr.net/gh/2917859116/xzw@main/jishiyuan.part3"
-                                                 ]
+                                       "desc":  "系统重装工具，下载密码：vip0",
+                                       "url":  "https://xytnb.lanzout.com/imbOS4bft31e",
+                                       "pwd":  "vip0"
                                    },
                                    {
                                        "name":  "影子系统",
                                        "icon":  "👤",
                                        "tag":  "系统保护",
-                                       "desc":  "PowerShadow 影子系统，重启还原保护，点击自动下载运行",
-                                       "url":  "",
-                                       "cloud_exe":  "https://cdn.jsdelivr.net/gh/2917859116/xzw@main/sys_shadow.zip",
-                                       "cloud_file":  "sys_shadow.zip"
+                                       "desc":  "系统保护工具，下载密码：0000",
+                                       "url":  "https://xytnb.lanzout.com/i6L4e4d2pwkh"
                                    }
                                ],
                        "global":  [
@@ -5946,27 +5938,17 @@
                                          "name":  "技术员一键重装",
                                          "icon":  "🧰",
                                          "tag":  "系统重装",
-                                         "desc":  "点击自动下载并运行，密码：vip0",
-                                         "url":  "",
-                                         "cloud_file":  "jishiyuan.exe",
-                                         "pwd":  "vip0",
-                                         "parts":  [
-                                                       "https://cdn.jsdelivr.net/gh/2917859116/xzw@main/jishiyuan.part1",
-                                                       "https://cdn.jsdelivr.net/gh/2917859116/xzw@main/jishiyuan.part2",
-                                                       "https://cdn.jsdelivr.net/gh/2917859116/xzw@main/jishiyuan.part3"
-                                                   ]
+                                         "desc":  "系统重装工具，下载密码：vip0",
+                                         "url":  "https://xytnb.lanzout.com/imbOS4bft31e",
+                                         "pwd":  "vip0"
                                      },
                                      {
                                          "name":  "天喵一键重装",
                                          "icon":  "🐱",
                                          "tag":  "系统重装",
-                                         "desc":  "点击自动下载并运行，密码：1788",
-                                         "url":  "",
-                                         "cloud_file":  "tianmao.exe",
-                                         "pwd":  "1788",
-                                         "parts":  [
-                                                       "https://cdn.jsdelivr.net/gh/2917859116/xzw@main/tianmao.part1 https://cdn.jsdelivr.net/gh/2917859116/xzw@main/tianmao.part2 https://cdn.jsdelivr.net/gh/2917859116/xzw@main/tianmao.part3 https://cdn.jsdelivr.net/gh/2917859116/xzw@main/tianmao.part4"
-                                                   ]
+                                         "desc":  "系统重装工具，下载密码：0000",
+                                         "url":  "https://xytnb.lanzout.com/iEWdl4d2pvwd",
+                                         "pwd":  "1788"
                                      },
                                      {
                                          "name":  "微PE工具箱",
