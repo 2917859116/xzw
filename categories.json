@@ -164,12 +164,7 @@
                                        "icon":  "⚡",
                                        "tag":  "游戏加速",
                                        "desc":  "雷神网游加速器，分卷下载自动合并运行",
-                                       "url":  "",
-                                       "parts":  [
-                                                     "https://gitee.com/xzwnbl/rotk-appstore/releases/download/apps/leigod_p1.bin",
-                                                     "https://gitee.com/xzwnbl/rotk-appstore/releases/download/apps/leigod_p2.bin"
-                                                 ],
-                                       "cloud_file":  "雷神加速器.exe"
+                                       "url":  "https://www.leigod.com/download"
                                    },
                                    {
                                        "name":  "UU加速器",
