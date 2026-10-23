@@ -130,27 +130,21 @@
                                        "icon":  "🖥️",
                                        "tag":  "远程协助",
                                        "desc":  "网易UU远程，点击自动下载安装",
-                                       "url":  "",
-                                       "cloud_exe":  "https://uuyc.163.com/download/uuyc.exe",
-                                       "cloud_file":  "uuyc_setup.exe"
+                                       "url":  "https://uuyc.163.com/"
                                    },
                                    {
                                        "name":  "Steam",
                                        "icon":  "🎮",
                                        "tag":  "游戏平台",
                                        "desc":  "全球最大PC游戏平台，点击自动下载安装",
-                                       "url":  "",
-                                       "cloud_exe":  "https://steamcdn-a.akamaihd.net/client/installer/SteamSetup.exe",
-                                       "cloud_file":  "steam_setup.exe"
+                                       "url":  "https://store.steampowered.com/"
                                    },
                                    {
                                        "name":  "WeGame",
                                        "icon":  "🕹️",
                                        "tag":  "游戏平台",
                                        "desc":  "腾讯游戏平台，点击自动下载安装",
-                                       "url":  "",
-                                       "cloud_exe":  "https://mlgdlt.wegame.com.cn/wegameclient/WeGameSetup.exe",
-                                       "cloud_file":  "wegame_setup.exe"
+                                       "url":  "https://www.wegame.com.cn/"
                                    },
                                    {
                                        "name":  "ROTK官网",
@@ -171,9 +165,7 @@
                                        "icon":  "🚀",
                                        "tag":  "游戏加速",
                                        "desc":  "网易UU加速器，点击自动下载安装",
-                                       "url":  "",
-                                       "cloud_exe":  "https://uu.163.com/download/uu.exe",
-                                       "cloud_file":  "uu_setup.exe"
+                                       "url":  "https://uu.163.com/"
                                    },
                                    {
                                        "name":  "技术员一键重装",
